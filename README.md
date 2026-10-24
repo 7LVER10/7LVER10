@@ -4,42 +4,44 @@
 
 # IVA — AI Engineering & Automation
 
-**Цифровые системы, которые берут на себя рутину**
+**Digital systems that take routine off your plate**
 
-Telegram-боты · Mini Apps · ИИ-агенты · автоматизация процессов
+Telegram bots · Mini Apps · AI agents · process automation
 
 <br/>
 
-<a href="https://7lver10.github.io/iva-portfolio/"><img src="https://img.shields.io/badge/Портфолио-0E0F11?style=for-the-badge&labelColor=0E0F11&color=0E0F11&logoColor=B89D6E" alt="Портфолио" /></a>
-<a href="https://t.me/I_V_A_A_V_I"><img src="https://img.shields.io/badge/Канал_I.V.A-0E0F11?style=for-the-badge&logo=telegram&logoColor=B89D6E&labelColor=0E0F11&color=0E0F11" alt="Канал I.V.A" /></a>
-<a href="https://t.me/ivavit_bot?start=audit"><img src="https://img.shields.io/badge/Бесплатный_аудит-B89D6E?style=for-the-badge&labelColor=B89D6E&color=B89D6E" alt="Аудит" /></a>
+<a href="https://7lver10.github.io/iva-portfolio/?lang=en"><img src="https://img.shields.io/badge/Portfolio-0E0F11?style=for-the-badge&labelColor=0E0F11&color=0E0F11&logoColor=B89D6E" alt="Portfolio" /></a>
+<a href="https://t.me/I_V_A_A_V_I"><img src="https://img.shields.io/badge/I.V.A_channel-0E0F11?style=for-the-badge&logo=telegram&logoColor=B89D6E&labelColor=0E0F11&color=0E0F11" alt="I.V.A channel" /></a>
+<a href="https://t.me/ivavit_bot?start=audit"><img src="https://img.shields.io/badge/Free_audit-B89D6E?style=for-the-badge&labelColor=B89D6E&color=B89D6E" alt="Free audit" /></a>
+
+<sub>English · Türkçe · Русский — portfolio in <a href="https://7lver10.github.io/iva-portfolio/?lang=en">EN</a> · <a href="https://7lver10.github.io/iva-portfolio/?lang=tr">TR</a> · <a href="https://7lver10.github.io/iva-portfolio/?lang=ru">RU</a></sub>
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
 </div>
 
-### Чем я занимаюсь
+### What I do
 
-Проектирую и собираю цифровые системы под задачу бизнеса: от первого разговора до работающего продукта. Без лишнего шума: понятная архитектура, аккуратный интерфейс, автоматизация там, где она экономит время.
+I design and build digital systems around a business goal — from the first conversation to a working product. No noise: a clear architecture, a clean interface, and automation wherever it actually saves time.
 
-- **Telegram-боты и Mini Apps** — продажи, заявки, сервис, сообщества
-- **ИИ-агенты** — ассистенты, обработка заявок, контент, аналитика
-- **Автоматизация** — связка сервисов, CRM, n8n / Make, отчёты по расписанию
-- **Сайты и каталоги** — быстрые многоязычные витрины
+- **Telegram bots & Mini Apps** — sales, lead intake, customer service, communities
+- **AI agents** — assistants, lead processing, content, analytics
+- **Automation** — connected services, CRM, n8n / Make, scheduled reports
+- **Websites & catalogues** — fast multilingual storefronts
 
-### Избранные работы
+### Selected work
 
-| Проект | Что это |
+| Project | What it is |
 |---|---|
-| [**Портфолио IVA**](https://7lver10.github.io/iva-portfolio/) | Кейсы, подход и форматы работы |
-| [**FreelanceMatch — демо**](https://7lver10.github.io/freelancematch-demo/) | «Тиндер для фриланса» в Telegram: свайпы, мэтч, чат, сделка, отзыв |
-| [**Yakamoz Glass Works — каталог**](https://7lver10.github.io/yakamoz-catalog/) | Интерактивный каталог продукции на четырёх языках: TR / EN / RU / AR |
+| [**IVA portfolio**](https://7lver10.github.io/iva-portfolio/?lang=en) | Case studies, approach and ways of working — in English, Turkish and Russian |
+| [**FreelanceMatch — demo**](https://7lver10.github.io/freelancematch-demo/) | “Tinder for freelancing” in Telegram: swipe, match, chat, deal, review |
+| [**Yakamoz Glass Works — catalogue**](https://7lver10.github.io/yakamoz-catalog/) | Interactive product catalogue in four languages: TR / EN / RU / AR |
 
-### Как начать
+### How to start
 
-1. Напишите в Telegram — [@iva7lver](https://t.me/iva7lver)
-2. Или запросите аудит вашего процесса — [@ivavit_bot](https://t.me/ivavit_bot?start=audit)
-3. Новости и разборы — в канале [I.V.A](https://t.me/I_V_A_A_V_I)
+1. Message me on Telegram — [@iva7lver](https://t.me/iva7lver) (English, Turkish or Russian)
+2. Or request a free audit of your process — [@ivavit_bot](https://t.me/ivavit_bot?start=audit)
+3. News and breakdowns — in the [I.V.A](https://t.me/I_V_A_A_V_I) channel
 
 <div align="center">
 
